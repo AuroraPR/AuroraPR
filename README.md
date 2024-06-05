@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center"><a href="https://www.linkedin.com/in/aurora-polo-rodr%C3%ADguez/" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle;"/></a><img width="8" /><img width="12" /></a><a href="https://scholar.google.es/citations?user=8v9QnncAAAAJ" style="text-decoration: none;"><img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-2048x2048-sjbhklt7.png" width="40" height="40" alt="google scholar logo" style="vertical-align: middle;"/></a></div>
+<div align="center"><a href="https://www.linkedin.com/in/aurora-polo-rodr%C3%ADguez/" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle;"/></a><img width="8" /><a href="https://scholar.google.es/citations?user=8v9QnncAAAAJ" style="text-decoration: none;"><img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-2048x2048-sjbhklt7.png" width="40" height="40" alt="google scholar logo" style="vertical-align: middle;"/></a></div>
 
 
 <p align="left">
